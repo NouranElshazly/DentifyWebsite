@@ -18,6 +18,6 @@
 - **Bootstrap**  
 ##📸 Screenshots
 ![Homepage](page-details/Home.png)
-![AboutUS](page-details/AboutUS.png)
+![AboutUS](page-details/AboutUs.png)
 ![OurTeam](page-details/OurTeam.png)
 ![Footer](page-details/footer.png)
